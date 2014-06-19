@@ -3,6 +3,7 @@ lib/Template/Plugin/Lingua/EN/Inflect.pm
 LICENSE
 Makefile.PL
 MANIFEST
+META.json
 META.yml
 README
 t/00_use.t
