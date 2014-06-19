@@ -1,7 +1,9 @@
 Revision history for Template-Plugin-Lingua-EN-Inflect
 ======================================================
 
+        - new maintainer: BARBIE.
         - change file dates changed to meet W3CDTF standards.
+        - added LICENSE file.
 
 0.02    2005-10-21T08:04:19Z
 	    - expanded documentation a bit
