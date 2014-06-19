@@ -1,7 +1,10 @@
-Revision history for Perl extension Template::Plugin::Lingua::EN::Inflect
+Revision history for Template-Plugin-Lingua-EN-Inflect
+======================================================
 
-0.02  Fri Oct 21 08:04:19 BST 2005
-	- expanded documentation a bit
+        - change file dates changed to meet W3CDTF standards.
 
-0.01  Thu Sep  1 15:38:02 BST 2005
-	- original version
+0.02    2005-10-21T08:04:19Z
+	    - expanded documentation a bit
+
+0.01    2005-09-01T15:38:02Z
+	    - original version
