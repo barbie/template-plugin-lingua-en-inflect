@@ -5,6 +5,7 @@ Revision history for Template-Plugin-Lingua-EN-Inflect
         - change file dates changed to meet W3CDTF standards.
         - added LICENSE file.
         - updated META.yml, added META.json.
+        - reworked Makefile.PL for clarity.
 
 0.02    2005-10-21T08:04:19Z
 	    - expanded documentation a bit
