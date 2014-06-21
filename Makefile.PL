@@ -17,11 +17,11 @@ WriteMakefile(
         # prereqs
         'Template'                          => '2.07',
         'Template::Plugin'                  => '2.07',
-        'Template::Stash'                   => '2.07',
         'Lingua::EN::Inflect'               => '0',
 
         # for testing
         'IO::File'                          => 0,
+        'Template::Test'                    => 0,
         'Test::More'                        => 0.70
 
     },

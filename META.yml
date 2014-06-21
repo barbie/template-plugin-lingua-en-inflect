@@ -13,7 +13,6 @@ requires:
   perl:                   5.006
   Template:               2.07
   Template::Plugin:       2.07
-  Template::Stash:        2.07
   Lingua::EN::Inflect:    0
 recommends:
   Test::CPAN::Meta:       0
@@ -22,6 +21,7 @@ recommends:
   Test::Pod::Coverage:    0.08
 build_requires:
   IO::File:               0
+  Template::Test:         0
   Test::More:             0.70
 
 provides:
