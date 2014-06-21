@@ -272,8 +272,8 @@ charities:
 
 =head1 ACKNOWLEDGEMENTS
 
-Andrew Ford E<lt>A.Ford@ford-mason.co.ukE<gt> wrote the original plugin 
-code (basing it heavily on the Template::Plugin::Autoformat code).
+Andrew Ford wrote the original plugin code (basing it heavily on the 
+Template::Plugin::Autoformat code).
 
 Damian Conway E<lt>damian@conway.orgE<gt> wrote the
 Lingua::EN::Inflect module, which does all the clever stuff.
