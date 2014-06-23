@@ -1,6 +1,6 @@
 {
     "name": "Template-Plugin-Lingua-EN-Inflect",
-    "version": "0.02",
+    "version": "0.03",
     "abstract": "TT2 interface to Lingua::EN::Inflect module",
     "author": [
         "Barbie (BARBIE) <barbie@cpan.org>"
@@ -47,7 +47,7 @@
     "provides": {
         "Template::Plugin::Lingua::EN::Inflect": {
             "file": "lib/Template/Plugin/Lingua/EN/Inflect.pm",
-            "version": "0.02"
+            "version": "0.03"
         }
     },
     "no_index": {
