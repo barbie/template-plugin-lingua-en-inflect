@@ -1,6 +1,9 @@
 Revision history for Template-Plugin-Lingua-EN-Inflect
 ======================================================
 
+0.05    2016-01-29
+        - fixed Bug #61005 inflect(number=>[something equalling 0])
+
 0.04    2015-01-02
         - fixed license fields in META.json to be lists.
         - extended functional test suite.

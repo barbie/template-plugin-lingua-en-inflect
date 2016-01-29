@@ -54,7 +54,7 @@ sub new {
 sub tt_inflect {
     my $options = ref $_[-1] eq 'HASH' ? pop : {};
     my $number = $options->{ number };
-    Lingua::EN::Inflect::NUM($number) if $number;
+    Lingua::EN::Inflect::NUM($number) if defined($number);
     my $out = inflect(join('', @_));
     return $out;
 }
